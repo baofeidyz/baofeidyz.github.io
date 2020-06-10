@@ -9,6 +9,9 @@ comments: true
 
 ---
 
+## 概述
+
+尝试通过分析ThreadPoolExecutor和BlockQueue的源码去理解线程池以及阻塞队列。
 
 ## JDK版本
 
@@ -17,12 +20,6 @@ comments: true
 ## 需要用到的知识点
 
 ### 位运算
-
-
-
-
-
-
 
 
 | 操作符 | 描述                                                         | 例子                           |
