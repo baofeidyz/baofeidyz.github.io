@@ -8,8 +8,6 @@ tags: [java]
 comments: true
 ---
 
-# ArrayList源码实现复习
-
 ```shell
 java version "1.8.0_251"
 Java(TM) SE Runtime Environment (build 1.8.0_251-b08)
