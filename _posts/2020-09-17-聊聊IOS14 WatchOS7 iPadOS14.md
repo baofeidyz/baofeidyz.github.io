@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2020-09-17-聊聊IOS14 WatchOS7 iPadOS14
+title: 聊聊IOS14 WatchOS7 iPadOS14
 date: 2020-09-17
 Author: baofeidyz
 categories: 日常随记
