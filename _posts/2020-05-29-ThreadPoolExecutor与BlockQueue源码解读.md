@@ -3,8 +3,8 @@ layout: post
 title: ThreadPoolExecutor与BlockQueue源码解读
 date: 2020-05-29
 Author: baofeidyz
-categories: Java
-tags: [Java]
+categories: java
+tags: [java]
 comments: true
 
 ---
